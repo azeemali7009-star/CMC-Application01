@@ -1,0 +1,34 @@
+# Manuscript and internal editorial files
+manuscript/
+CMC_Application_01_references.bib
+SUBMISSION_READINESS.md
+
+# Generated outputs
+results/
+figures/
+tables/
+
+# External/raw experimental datasets
+data/raw/
+data/external/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Operating-system and editor files
+.DS_Store
+*.swp
+*~

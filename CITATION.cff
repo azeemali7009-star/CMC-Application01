@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and the external experimental dataset separately."
+title: "Intrinsic topology-constrained learning of therapeutic transport in multicellular breast-tumour spheroids using Combinatorial Mesh Calculus"
+type: software
+authors:
+  - family-names: "Azeem"
+    given-names: "Muhammad"
+year: 2026
+license: MIT

@@ -1,0 +1,15 @@
+seed: 2026
+grid_size: 9
+n_train: 16
+n_val: 4
+n_test: 6
+reaction_rate: 0.045
+dirichlet_penalty: 250.0
+epochs: 100
+learning_rate: 0.01
+hidden_dim: 24
+hodge_layers: 2
+physics_weight: 0.15
+conductance_weight: 1.0
+physics_every: 12
+physics_batch: 2

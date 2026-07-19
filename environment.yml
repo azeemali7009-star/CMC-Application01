@@ -1,0 +1,17 @@
+name: cmc-tumour
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - pytorch
+  - scikit-learn
+  - networkx
+  - pyyaml
+  - nibabel
+  - tifffile
+  - requests
+  - pip
