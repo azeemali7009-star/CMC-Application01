@@ -63,10 +63,6 @@ This downloads the small feature tables by default. Add `--all` only after check
 
 On six held-out controlled phantoms, mean concentration relative L2 error was 0.366 for the homogeneous comparator, 0.238 for the local edge MLP and 0.105 for CMC-HodgeNet. This result demonstrates capability under a benchmark whose hidden law contains incidence-mediated Hodge context. It does **not** establish universal superiority or clinical efficacy.
 
-## Submission status
-
-The manuscript is a strong computational foundation, not a completed Nature-family submission. A high-impact experimental article still needs three-dimensional experimental execution, strong heterogeneous continuum baselines, independent biological replication, uncertainty analysis and a model-predicted intervention confirmed experimentally.
-
 ## Licence
 
 Code is supplied under the MIT License. External experimental data remain governed by their source repository terms and must be cited independently.
